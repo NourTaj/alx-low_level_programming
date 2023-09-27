@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * print_listint - prints all elements of a linled list
+ * print_listint - prints all elements in a linled list
  * @h: points to the first node
  *
  * Return: the number of nodes
